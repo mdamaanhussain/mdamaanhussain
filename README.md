@@ -44,4 +44,4 @@ I am a passionate **Java backend and full-stack developer** who loves solving re
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
