@@ -15,7 +15,7 @@ I am a passionate **Java backend and full-stack developer** who loves solving re
 ## 🧑‍💻 Tech Stack
 
 - **Languages:** Java, C, JavaScript  
-- **Frameworks & Libraries:** MERN Stack, Tailwind CSS  
+- **Frameworks & Libraries:**  Node.js, React.js, Express.js  
 - **Databases:** MongoDB, SQL  
 - **Developer Tools:** Git, VS Code  
 - **Core Areas:** REST APIs, Authentication, Debugging, Agile Workflow
